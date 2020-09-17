@@ -1,0 +1,13 @@
+C:\Users\s_mar\Melissa\ABCInputs\bin\Debug\netcoreapp3.1\ABCInputs.exe
+C:\Users\s_mar\Melissa\ABCInputs\bin\Debug\netcoreapp3.1\ABCInputs.deps.json
+C:\Users\s_mar\Melissa\ABCInputs\bin\Debug\netcoreapp3.1\ABCInputs.runtimeconfig.json
+C:\Users\s_mar\Melissa\ABCInputs\bin\Debug\netcoreapp3.1\ABCInputs.runtimeconfig.dev.json
+C:\Users\s_mar\Melissa\ABCInputs\bin\Debug\netcoreapp3.1\ABCInputs.dll
+C:\Users\s_mar\Melissa\ABCInputs\bin\Debug\netcoreapp3.1\ABCInputs.pdb
+C:\Users\s_mar\Melissa\ABCInputs\obj\Debug\netcoreapp3.1\ABCInputs.csprojAssemblyReference.cache
+C:\Users\s_mar\Melissa\ABCInputs\obj\Debug\netcoreapp3.1\ABCInputs.AssemblyInfoInputs.cache
+C:\Users\s_mar\Melissa\ABCInputs\obj\Debug\netcoreapp3.1\ABCInputs.AssemblyInfo.cs
+C:\Users\s_mar\Melissa\ABCInputs\obj\Debug\netcoreapp3.1\ABCInputs.csproj.CoreCompileInputs.cache
+C:\Users\s_mar\Melissa\ABCInputs\obj\Debug\netcoreapp3.1\ABCInputs.dll
+C:\Users\s_mar\Melissa\ABCInputs\obj\Debug\netcoreapp3.1\ABCInputs.pdb
+C:\Users\s_mar\Melissa\ABCInputs\obj\Debug\netcoreapp3.1\ABCInputs.genruntimeconfig.cache
